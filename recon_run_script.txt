@@ -1,0 +1,61 @@
+recon-all -base base_001 -tp 01_MR1 -all > base_001.txt
+recon-all -base base_002 -tp 02_MR1 -all > base_002.txt
+recon-all -base base_003 -tp 03_MR1 -all > base_003.txt
+recon-all -base base_005 -tp 05_MR1 -all > base_005.txt
+recon-all -base base_006 -tp 06_MR1 -all > base_006.txt
+recon-all -base base_007 -tp 07_MR1 -all > base_007.txt
+recon-all -base base_008 -tp 08_MR1 -tp 08_MR2 -all > base_008.txt
+recon-all -base base_009 -tp 09_MR1 -all > base_009.txt
+recon-all -base base_010 -tp 10_MR1 -all > base_010.txt
+recon-all -base base_011 -tp 11_MR1 -all > base_011.txt
+recon-all -base base_012 -tp 12_MR1 -tp 12_MR2 -tp 12_MR4 -all > base_012.txt
+recon-all -base base_013 -tp 13_MR1 -all > base_013.txt
+recon-all -base base_014 -tp 14_MR1 -all > base_014.txt
+recon-all -base base_015 -tp 15_MR1 -all > base_015.txt
+recon-all -base base_016 -tp 16_MR1 -all > base_016.txt
+recon-all -base base_017 -tp 17_MR1 -tp 17_MR2 -tp 17_MR3 -all > base_017.txt
+recon-all -base base_018 -tp 18_MR1 -all > base_018.txt
+recon-all -base base_019 -tp 19_MR1 -tp 19_MR2 -tp 19_MR3 -tp 19_MR4 -all > base_019.txt
+recon-all -base base_020 -tp 20_MR1 -tp 20_MR2 -tp 20_MR3 -tp 20_MR4 -all > base_020.txt
+recon-all -base base_021 -tp 21_MR1 -tp 21_MR2 -tp 21_MR3 -all > base_021.txt
+recon-all -base base_022 -tp 22_MR1 -all > base_022.txt
+recon-all -base base_023 -tp 23_MR1 -tp 23_MR2 -tp 23_MR3 -tp 23_MR4 -all > base_023.txt
+recon-all -base base_024 -tp 24_MR1 -tp 24_MR2 -tp 24_MR3 -tp 24_MR4 -tp 24_MR5 -tp 24_MR6 -all > base_024.txt
+recon-all -base base_025 -tp 25_MR1 -tp 25_MR2 -all > base_025.txt
+recon-all -base base_026 -tp 26_MR1 -all > base_026.txt
+recon-all -base base_027 -tp 27_MR1 -all > base_027.txt
+recon-all -base base_028 -tp 28_MR1 -all > base_028.txt
+recon-all -base base_029 -tp 29_MR1 -tp 29_MR2 -tp 29_MR3 -all > base_029.txt
+recon-all -base base_030 -tp 30_MR1 -all > base_030.txt
+recon-all -base base_031 -tp 31_MR1 -all > base_031.txt
+recon-all -base base_032 -tp 32_MR1 -tp 32_MR2 -all > base_032.txt
+recon-all -base base_033 -tp 33_MR1 -all > base_033.txt
+recon-all -base base_034 -tp 34_MR1 -tp 34_MR2 -tp 34_MR3 -tp 34_MR4 -all > base_034.txt
+recon-all -base base_035 -tp 35_MR1 -tp 35_MR2 -all > base_035.txt
+recon-all -base base_036 -tp 36_MR1 -tp 36_MR2 -tp 36_MR3 -all > base_036.txt
+recon-all -base base_037 -tp 37_MR1 -all > base_037.txt
+recon-all -base base_038 -tp 38_MR1 -all > base_038.txt
+recon-all -base base_039 -tp 39_MR1 -tp 39_MR2 -all > base_039.txt
+recon-all -base base_040 -tp 40_MR1 -tp 40_MR2 -tp 40_MR3 -tp 40_MR4 -tp 40_MR5 -tp 40_MR6 -all > base_040.txt
+recon-all -base base_041 -tp 41_MR1 -tp 41_MR2 -all > base_041.txt
+recon-all -base base_061 -tp 61_MR1 -all > base_061.txt
+recon-all -base base_063 -tp 63_MR1 -tp 63_MR2 -all > base_063.txt
+recon-all -base base_042 -tp 42_MR1 -all > base_042.txt
+recon-all -base base_043 -tp 43_MR1 -tp 43_MR2 -all > base_043.txt
+recon-all -base base_044 -tp 44_MR1 -all > base_044.txt
+recon-all -base base_045 -tp 45_MR1 -tp 45_MR2 -all > base_045.txt
+recon-all -base base_046 -tp 46_MR1 -all > base_046.txt
+recon-all -base base_047 -tp 47_MR1 -all > base_047.txt
+recon-all -base base_048 -tp 48_MR1 -all > base_048.txt
+recon-all -base base_049 -tp 49_MR1 -all > base_049.txt
+recon-all -base base_050 -tp 50_MR1 -tp 50_MR2 -all > base_050.txt
+recon-all -base base_051 -tp 51_MR1 -tp 51_MR2 -all > base_051.txt
+recon-all -base base_052 -tp 52_MR1 -all > base_052.txt
+recon-all -base base_053 -tp 53_MR1 -tp 53_MR2 -all > base_053.txt
+recon-all -base base_054 -tp 54_MR1 -all > base_054.txt
+recon-all -base base_055 -tp 55_MR1 -all > base_055.txt
+recon-all -base base_056 -tp 56_MR1 -tp 56_MR2 -all > base_056.txt
+recon-all -base base_057 -tp 57_MR1 -tp 57_MR2 -all > base_057.txt
+recon-all -base base_058 -tp 58_MR1 -tp 58_MR2 -all > base_058.txt
+recon-all -base base_059 -tp 59_MR1 -all > base_059.txt
+recon-all -base base_060 -tp 60_MR1 -all > base_060.txt
